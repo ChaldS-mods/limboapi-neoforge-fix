@@ -1,0 +1,36 @@
+[13:36:43] [ServerMain/INFO]: Starting provider: SNBT -> NBT
+[13:36:43] [ServerMain/INFO]: SNBT -> NBT finished after 0 ms
+[13:36:43] [ServerMain/INFO]: Starting provider: Fluid Tags
+[13:36:43] [ServerMain/INFO]: Fluid Tags finished after 38 ms
+[13:36:43] [ServerMain/INFO]: Starting provider: Block Tags
+[13:36:44] [ServerMain/INFO]: Block Tags finished after 492 ms
+[13:39:32] [ServerMain/INFO]: Starting provider: Item Tags
+[13:39:32] [ServerMain/INFO]: Item Tags finished after 45 ms
+[13:39:32] [ServerMain/INFO]: Starting provider: Entity Type Tags
+[13:39:32] [ServerMain/INFO]: Entity Type Tags finished after 6 ms
+[13:39:32] [ServerMain/INFO]: Starting provider: Recipes
+[13:39:34] [ServerMain/INFO]: Recipes finished after 1912 ms
+[13:39:34] [ServerMain/INFO]: Starting provider: Advancements
+[13:39:34] [ServerMain/INFO]: Advancements finished after 419 ms
+[13:39:34] [ServerMain/INFO]: Starting provider: LootTables
+[13:39:35] [ServerMain/INFO]: LootTables finished after 1024 ms
+[13:39:35] [ServerMain/INFO]: Starting provider: Game Event Tags
+[13:39:35] [ServerMain/INFO]: Game Event Tags finished after 2 ms
+[13:39:35] [ServerMain/INFO]: Starting provider: Biome Tags
+[13:39:35] [ServerMain/INFO]: Biome Tags finished after 26 ms
+[13:39:35] [ServerMain/INFO]: Starting provider: Configured Structure Feature Tags
+[13:39:35] [ServerMain/INFO]: Configured Structure Feature Tags finished after 5 ms
+[13:39:35] [ServerMain/INFO]: Starting provider: Block List
+[13:39:36] [ServerMain/INFO]: Block List finished after 195 ms
+[13:39:36] [ServerMain/INFO]: Starting provider: Registry Dump
+[13:39:36] [ServerMain/INFO]: Registry Dump finished after 20 ms
+[13:39:36] [ServerMain/INFO]: Starting provider: Command Syntax
+[13:39:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:39:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:39:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:39:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:39:36] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:39:36] [ServerMain/INFO]: Command Syntax finished after 307 ms
+[13:39:36] [ServerMain/INFO]: Starting provider: Worldgen
+[13:39:38] [ServerMain/INFO]: Worldgen finished after 1730 ms
+[13:39:38] [ServerMain/INFO]: All providers took: 174720 ms
